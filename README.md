@@ -55,7 +55,7 @@ Next, optionally click "**Generate plan**" to verify everything would be working
 
 Click the following link to create a Tekton-based toolchain in the IBM Cloud Continuous Delivery service:
 
-[![Create toolchain](https://cloud.ibm.com/devops/graphics/create_toolchain_button.png)](https://cloud.ibm.com/devops/setup/deploy/?repository=https%3A//github.com/IBM-Cloud/secure-file-storage&env_id=ibm:yp:us-south&type=tekton)
+[![Create toolchain](https://cloud.ibm.com/devops/graphics/create_toolchain_button.png)](https://cloud.ibm.com/devops/setup/deploy/?repository=https%3A//github.com/VidyasagarMSC/secure-file-storage&env_id=ibm:yp:us-south&type=tekton)
 
 Make sure to select the region where your Continuous Delivery service is deployed.
 
