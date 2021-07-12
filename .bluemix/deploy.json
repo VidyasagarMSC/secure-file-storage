@@ -58,8 +58,7 @@
       "description": {
         "$ref": "#/messages/deploy.schematicsWorkspaceDescription"
       },
-      "type": "string",
-      "pattern": "\\S"
+      "type": "string"
     }
 },
 "required": [
