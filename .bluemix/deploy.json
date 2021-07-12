@@ -58,7 +58,8 @@
       "description": {
         "$ref": "#/messages/deploy.schematicsWorkspaceDescription"
       },
-      "type": "string"
+      "type": "string",
+      "pattern": "^[a-z0-9][-_a-z0-9]{2,28}[a-z0-9]$"
     }
 },
 "required": [
